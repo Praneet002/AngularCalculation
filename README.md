@@ -274,7 +274,7 @@ export class AppModule { }
 
 
 # OUTPUT:
-![output]Screenshot(131.png)
+![output](1.png)
 
 
 
