@@ -40,11 +40,11 @@ Publish the website in the given URL.
     <div class="container">
     <div class="content">
     <app-rectangle></app-rectangle>
-    <div class="footer">Developed By Anish M.J</div>
+    <div class="footer">Developed By Praneet S</div>
     </div>
     <div class="content">
     <app-cone></app-cone>
-    <div class="footer">Developed By Anish M.J</div>
+    <div class="footer">Developed By Praneet S</div>
     </div>
     </div>
     </body>
@@ -274,7 +274,7 @@ export class AppModule { }
 
 
 # OUTPUT:
-![output](angular.png)
+![output](screenshot131.png)
 
 
 
